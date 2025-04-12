@@ -1,11 +1,5 @@
-# Node
 node_modules
-
-# Next
 .next
-
-# VS Code
+.env
 .vscode
-
-# System files
 .DS_Store
